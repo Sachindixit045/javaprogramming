@@ -1,0 +1,4 @@
+{
+    "editor.quickSuggestionsDelay": 1000000000,
+    "editor.suggest.snippetsPreventQuickSuggestions": false
+}
